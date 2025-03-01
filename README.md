@@ -8,4 +8,4 @@
 5. 用aria2下载 参照[403报错解决教程](https://oxygenupdater.com/article/474/)
 
 ### 历史版本
-[A.36（补丁版本25年1月）](https://www.dropbox.com/scl/fi/4lhbgxauo137hsjzpr2eu/RMX3611_11_A.36.zip?rlkey=qgjz2w6r21qpz627eqe5eg94f&dl=0)
+[A.36（补丁版本25年1月）](https://www.dropbox.com/scl/fi/4lhbgxauo137hsjzpr2eu/RMX3611_11_A.36.zip?rlkey=qgjz2w6r21qpz627eqe5eg94f&dl=0) [官方镜像](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3b2e46079dcd23ba2976208d3d8b29fe/component-ota/25/01/07/27bcc522e28e4c8382821e5fc7e82428.zip)
